@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## Hello, world! 👋🏻
 ### Welcome to my GitHub profile
 I'm  a 26 years old AutoCad drafter. 
-I'm currently studying software development, seeking knowledge to build a career in the area.
+I'm currently studying software engineering, seeking knowledge to build a career in the area.
 
 ---
 
